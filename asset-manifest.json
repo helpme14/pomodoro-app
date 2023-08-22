@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/pomodoro-app/static/css/main.92e85429.css",
-    "main.js": "/pomodoro-app/static/js/main.773a0d8a.js",
-    "static/js/787.1ee58fdb.chunk.js": "/pomodoro-app/static/js/787.1ee58fdb.chunk.js",
-    "index.html": "/pomodoro-app/index.html",
-    "main.92e85429.css.map": "/pomodoro-app/static/css/main.92e85429.css.map",
-    "main.773a0d8a.js.map": "/pomodoro-app/static/js/main.773a0d8a.js.map",
-    "787.1ee58fdb.chunk.js.map": "/pomodoro-app/static/js/787.1ee58fdb.chunk.js.map"
+    "main.css": "/tic-tac-toe-reactjs/static/css/main.371afc47.css",
+    "main.js": "/tic-tac-toe-reactjs/static/js/main.2f224ce7.js",
+    "index.html": "/tic-tac-toe-reactjs/index.html",
+    "main.371afc47.css.map": "/tic-tac-toe-reactjs/static/css/main.371afc47.css.map",
+    "main.2f224ce7.js.map": "/tic-tac-toe-reactjs/static/js/main.2f224ce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.92e85429.css",
-    "static/js/main.773a0d8a.js"
+    "static/css/main.371afc47.css",
+    "static/js/main.2f224ce7.js"
   ]
 }
